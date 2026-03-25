@@ -1,6 +1,5 @@
 № ПЗ7
-
-# Технические задания для программных модулей
+<img width="1054" height="381" alt="{DD4170B2-21D3-4C5B-AD37-4586C1D59FBD}" src="https://github.com/user-attachments/assets/1bf6fc8f-2ea8-4d07-b524-edb9bbd5fce0" />
 
 ## Задача 1 — Линейный алгоритм «Перевод времени»
 
